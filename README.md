@@ -1,5 +1,5 @@
 # Hello World 👋
-I'm Yusuf YILDIZ! I'm Fullstack Developer with Java, JavaScript and DevOps.
+I'm Yusuf YILDIZ! I'm Fullstack Developer with Java, .NET, JavaScript and DevOps.
 
 [![GitHub followers](https://img.shields.io/github/followers/yusufyildiz34?style=social)](https://github.com/yusufyildiz34?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/yusufyildiz34?style=social)
@@ -30,7 +30,7 @@ I'm Yusuf YILDIZ! I'm Fullstack Developer with Java, JavaScript and DevOps.
     <img src="https://github-readme-stats.vercel.app/api?username=yusufyildiz34&count_private=true&show_icons=true&theme=tokyonight">
 </p>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraterzi&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyildiz34&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   </p>
 </p>
 
