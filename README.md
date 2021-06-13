@@ -3,6 +3,7 @@ I'm Yusuf YILDIZ! I'm Fullstack Developer with Java, JavaScript and DevOps.
 
 [![GitHub followers](https://img.shields.io/github/followers/yusufyildiz34?style=social)](https://github.com/yusufyildiz34?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/yusufyildiz34?style=social)
+
  <a href="https://www.linkedin.com/in/yusufyildiz34/" target="_blank" rel="nofollow"><img alt="Yusuf YILDIZ's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:yusufyildiz86@gmail.com" target="_blank" rel="nofollow"><img alt="Yusuf YILDIZ's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
