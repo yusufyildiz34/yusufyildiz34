@@ -43,6 +43,6 @@ I'm Yusuf YILDIZ! I'm Fullstack Developer with Java, .NET and JavaScript having 
     <img src="https://github-readme-stats.vercel.app/api?username=yusufyildiz34&count_private=true&show_icons=true&theme=tokyonight">
   </p>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyildiz34&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyildiz34&layout=compact&show_icons=true&theme=tokyonight">
   </p>
 </p>
