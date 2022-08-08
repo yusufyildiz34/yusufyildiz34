@@ -1,5 +1,5 @@
 # Hello World 👋
-I'm Yusuf YILDIZ! I'm Fullstack Developer with Java, .NET and JavaScript having experience with the AWS as well as DevOps development in Windows Mac and Linux systems.
+I'm Yusuf YILDIZ! I'm Fullstack Developer with Java and JavaScript having experience with the AWS as well as DevOps development in Windows Mac and Linux systems.
 
 [![GitHub followers](https://img.shields.io/github/followers/yusufyildiz34?style=social)](https://github.com/yusufyildiz34?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/yusufyildiz34?style=social)
