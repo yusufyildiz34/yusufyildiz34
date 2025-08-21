@@ -9,7 +9,7 @@
  <a href="https://github.com/yusufyildiz34" target="_blank" rel="nofollow"><img alt="Yusuf YILDIZ's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ## 🛠 Technology Stack
-- **Backend:** Java 17/21, Spring Boot, Spring Cloud, JPA/Hibernate, Quarkus (ops.)
+- **Backend:** Java 17/21, Spring Boot, Spring Cloud, JPA/Hibernate, Quarkus
 - **Frontend:** Angular, React, TypeScript, HTML5, CSS3, Bootstrap, TailwindCSS
 - **Architectures:** Microservices, Hexagonal/DDD, CQRS, Event Sourcing, REST/GraphQL
 - **Data:** PostgreSQL, MySQL, Redis, Kafka, Elasticsearch, SQL Server, MongoDB, Cassandra, Oracle
