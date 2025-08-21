@@ -3,10 +3,8 @@
 - I've been working as Fullstack Developer over 15 years having experience with Java, Spring Boot, Hibernate, AngularJS, ReactJS, TypeScript, Docker, Kubernetes, AWS and iOS and Android.
 - I've been building Highly Available, Scalable and Fault-tolerant Distributed Systems in IOT, Banking and Finance, Telecom, E-commerce, Insurance and Blockchain using Agile and Scrum methodologies over 15 years.
 
-
- <a href="https://www.linkedin.com/in/yusufyildiz34/" target="_blank" rel="nofollow"><img alt="Yusuf YILDIZ's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:yusufyildiz86@gmail.com" target="_blank" rel="nofollow"><img alt="Yusuf YILDIZ's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://github.com/yusufyildiz34" target="_blank" rel="nofollow"><img alt="Yusuf YILDIZ's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yusufyildiz34/" target="_blank" rel="nofollow"><img alt="Yusuf YILDIZ's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/yusufyildiz34" target="_blank" rel="nofollow"><img alt="Yusuf YILDIZ's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ## 🛠 Technology Stack
 - **Backend:** Java 17/21, Spring Boot, Spring Cloud, JPA/Hibernate, Quarkus
