@@ -3,9 +3,10 @@ author:
   name: yusufyildiz34
   email: mail@@yusufyildiz.co
 description: >
-  I've been working as Fullstack Developer over 15 years and building Highly Available, Scalable and Fault-tolerant Distributed Systems.
+  I've been working as Fullstack Java Developer over 15 years.
 favicon: "/favicon.ico"
+theme: minima
 plugins:
-  - jekyll-remote-theme
-remote_theme: jekyll/minima
+  - jekyll-feed
+  - jekyll-seo-tag
 google_analytics: G-1J0P085LKC
