@@ -1,4 +1,7 @@
 title: Yusuf YILDIZ
 description: Fullstack Java Developer
 favicon: "/favicon.ico"
+plugins:
+  - jekyll-remote-theme
+remote_theme: jekyll/minima
 google_analytics: G-1J0P085LKC
